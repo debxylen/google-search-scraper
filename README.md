@@ -27,7 +27,7 @@ for result in get_results("[test query]", nid):
     else: print(result)
 ```
 
-## example outputs
+## example `get_results` outputs
 
 ```python
 {
@@ -42,7 +42,8 @@ for result in get_results("[test query]", nid):
 {
     "type": "video",
     "title": "cat compilation",
-    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "overview": "very cool cats"
 }
 ```
 
