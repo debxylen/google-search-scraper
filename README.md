@@ -1,3 +1,5 @@
+> note: if this broke then please open an issue and lmk, i'll fix it (likely)
+
 # google-search-scraper
 
 tiny python thing that scrapes google search results, including ai overviews and videos  
